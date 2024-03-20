@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
 
 moving:
-  about_you: Hard work always pays off
+  about_you: Libraries Hacked is a project to promote open data, to help libraries publish their data, and to showcase projects using library data.
   avatar_url:
   date_format: "%b %-d, %Y"
   back_to: "Index"
