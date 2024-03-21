@@ -38,7 +38,9 @@ The process of creating a data story is collaborative. It will typically involve
 1. Initial meeting to discuss the story you want to tell, and ideas for data
 2. Initial preliminary actions, signoff processes, arranging time and people to work on the project
 3. More formal catchups to discuss progress, and to ensure that any work is on track such as extracting data, cleaning data, and creating visualisations
-4. Final presentation of the story, and any follow up actions
+4. Final writeup of the story, and any follow up actions
+
+The story would then be published on this site, and shared with the wider library community.
 
 ## How much time will you need to spend on this?
 
@@ -57,3 +59,10 @@ For library services and organisations that would like to work with me in promot
 ## How can I get involved?
 
 If you're interested in telling a story about your library using data, please do [get in touch](mailto:info@librarieshacked.org).
+
+## Long terms ambitions
+
+
+Long term I would love to see a community of library data storytellers, who regularly share their stories, challanges and experiences with each other. I would be happy to help facilitate this community, and to help you get involved.
+
+I would also love to add physical publishing to this project, such as a newspaper, printed cards, or a bigger printed publication. Physical publishing can be a great way to reach people who might not be online, and to engage in a different way - plus wouldn't it be great to have phsyical copies of visualisations and stories in libraries?
