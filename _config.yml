@@ -1,5 +1,5 @@
 title: Library data storytelling
-author: Libraries Hacked
+author: Data storytellers
 email: info@librarieshacked.org
 description: Telling stories with library data
 url: "https://www.librarystorytelling.net"
@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
 
 moving:
-  about_you: Libraries Hacked is a project to promote open data, to help libraries publish their data, and to showcase projects using library data.
+  about_you: Library data storytelling is a project to promote and celebrate libraries by using library data to tell compelling stories
   avatar_url:
   date_format: "%b %-d, %Y"
   back_to: "Index"
