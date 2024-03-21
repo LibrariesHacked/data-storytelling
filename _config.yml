@@ -1,5 +1,5 @@
 title: Library data storytelling
-author: Data storytellers
+author: Essential information about data storytelling
 email: info@librarieshacked.org
 description: Telling stories with library data
 url: "https://www.librarystorytelling.net"
@@ -13,7 +13,7 @@ moving:
   about_you: Library data storytelling is a project to promote and celebrate libraries by using library data to tell compelling stories
   avatar_url:
   date_format: "%b %-d, %Y"
-  back_to: "Index"
+  back_to: "Home"
   social_links:
     rss: RSS
     github: librarieshacked
