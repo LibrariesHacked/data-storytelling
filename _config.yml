@@ -4,13 +4,12 @@ email: info@librarieshacked.org
 description: Telling stories with library data
 url: "https://www.librarystorytelling.net"
 
-# Build settings
 remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 
 moving:
-  about_you: Library data storytelling is a project to promote and celebrate libraries by using library data to tell compelling stories
+  about_you: Library data storytelling is a project to promote libraries by using library data to tell compelling stories that inform and engage people with insight into library services
   avatar_url:
   date_format: "%b %-d, %Y"
   back_to: "Home"
