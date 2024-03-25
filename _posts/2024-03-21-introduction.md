@@ -14,7 +14,7 @@ About two months ago, on [the library data blog](https://blog.librarydata.uk/), 
 >
 > The idea: create a set of data stories using public library data, add a beautiful data visualisation for each one, and publish in physical and digital form.
 
-I was inspired by many things. The success and beauty of projects like [Information is Beautiful](https://informationisbeautiful.net/), the power of data storytelling to inform, educate, and entertain, and the obvious untapped potential of public library data.
+I was inspired by many things. The impact and beauty of projects like [Information is Beautiful](https://informationisbeautiful.net/), the power of data storytelling to inform, educate, and entertain, as well as the obvious untapped potential of public library data.
 
 A couple of months later, and the idea is slowly starting to take shape. I've been talking with a small group of people to develop the idea, and getting ready to start the project in earnest.
 

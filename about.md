@@ -70,6 +70,8 @@ The data used in the examples on this site is either open data, or data that has
 
 For library services and organisations that would like to work on this project, I will never ask for access to personal data, and will always work with you to ensure that the data we use is appropriate and safe. I have experience in working with sensitive data and public data, such as during my time as senior developer at Bath and North East Somerset Council, where I was technical lead in a large scale open data programme across the council.
 
+Before sharing any data we will have a discussion about the data to ensure that it is appropriate and safe to use.
+
 ## How can I get involved?
 
 If you're interested in telling a story about your library using data, [get in touch](mailto:info@librarieshacked.org).
