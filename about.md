@@ -2,13 +2,13 @@
 layout: about
 ---
 
-The following is essential information and terms of reference for the Library data storytelling project.
+The following is information and terms of reference for the library data storytelling project.
 
 All content on this site is published under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Who is this for?
 
-The project is designed for library staff, supporters, organisations (e.g. bibliographic data or software suppliers who work with library data), and anyone who is interested in telling stories about libraries using data.
+The project is designed for library staff, supporters, suppliers (e.g. bibliographic data or software solutions who work with library data), and anyone who is interested in telling stories about libraries.
 
 ## Who runs it?
 
@@ -60,7 +60,7 @@ The exact amount of time will depend on the story you want to tell, and the comp
 
 It would be lovely if the stories in this project also included regularly published open datasets that could be used by others to expand on that story.
 
-However, I understand there can be concerns around this. We should at the least describe the data we're using, how to extract it from relevant systems, and the process used to analyse it. This will help others to replicate the work for themselves.
+However, I understand there can be a reluctance to do too much at once! We should at the least describe the data we're using, how to extract it from relevant systems, and the process used to analyse it. This will help others to replicate the work for themselves.
 
 ## Data protection and terms of use
 
