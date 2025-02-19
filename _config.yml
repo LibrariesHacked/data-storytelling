@@ -8,8 +8,6 @@ baseurl: /
 include: ["_pages"]
 permalink: /:title/
 
-remote_theme: wowthemesnet/mediumish-theme-jekyll
-
 # Authors
 authors:
   dave:
