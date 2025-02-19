@@ -1,20 +1,56 @@
+name: Library data storytelling
 title: Library data storytelling
-author: Essential information about data storytelling
+description: Essential information about data storytelling
 email: info@librarieshacked.org
 description: Telling stories with library data
 url: "https://www.librarystorytelling.net"
+baseurl: /
+include: ["_pages"]
+permalink: /:title/
 
-remote_theme: huangyz0918/moving
+remote_theme: wowthemesnet/mediumish-theme-jekyll
+
+# Authors
+authors:
+  dave:
+    name: Dave
+    display_name: Dave
+    web: https://www.davesrowe.co.uk
+    description: "Founder of Libraries Hacked."
+
+# Plugins
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
-moving:
-  about_you: Library data storytelling is a project to promote libraries by using library data to tell compelling stories that inform and engage people with insight into library services
-  avatar_url:
-  date_format: "%b %-d, %Y"
-  back_to: "Home"
-  social_links:
-    rss: RSS
-    github:
-    facebook:
-    linkedin:
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+adsense: "disabled"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
