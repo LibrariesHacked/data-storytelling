@@ -1,5 +1,8 @@
 ---
 layout: post
+title: 'About'
+author: 'Dave'
+permalink: /about/
 ---
 
 The following is information and terms of reference for the library data storytelling project.
