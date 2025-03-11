@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 ---
 
 The following is information and terms of reference for the library data storytelling project.

@@ -1,54 +1,31 @@
-name: Library data storytelling
-title: Library data storytelling
-description: Essential information about data storytelling
-email: info@librarieshacked.org
-description: Telling stories with library data
+# Site settings
+title: Library Storytelling
+description: "Telling stories with library data"
+baseurl: "/"
 url: "https://www.librarystorytelling.net"
-baseurl: /
-include: ["_pages"]
-permalink: /:title/
 
-# Authors
-authors:
-  dave:
-    name: Dave
-    display_name: Dave
-    web: https://www.davesrowe.co.uk
-    description: "Founder of Libraries Hacked."
+remote_theme: chesterhow/tale
 
-# Plugins
+# Google Analytics
+google_analytics:
+
+# Author
+author:
+  name: Dave Rowe
+  url: https://www.davesrowe.co.uk
+  email:
+
+# Build settings
+markdown: kramdown
+include:
+  - _pages
+
+permalink: /:year-:month-:day/:title
+paginate: 5
+
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
+  - jekyll-remote-theme
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-adsense: "disabled"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+# Excludes
+exclude: [Gemfile, Gemfile.lock, tale.gemspec]
