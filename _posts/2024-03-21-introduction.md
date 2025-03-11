@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Introduction to library storytelling
-categories: Site
-author: Dave Rowe
-meta: Introduction
+tags: Site
+author: Dave
 ---
 
 About two months ago, on [the library data blog](https://blog.librarydata.uk/), I published a post with an idea for a new project.
