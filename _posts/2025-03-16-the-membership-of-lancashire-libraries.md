@@ -3,16 +3,16 @@ layout: post
 title: The membership of Lancashire libraries
 tags: Membership
 author: Dave and Lancashire Libraries
-published: false
+published: true
 ---
 
-Lancashire is a ceremonial county in North West England. However, Lancashire can mean different things and we shouldn't confuse the ceremonial county with the County Council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
+Lancashire is a ceremonial county in North West England. The name Lancashire can mean different things and we shouldn't confuse the ceremonial county with the County Council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
 
-The population of Lancashire County Council is about 1.2 million. The libraries serving that population are Lancashire Libraries.
+The population of Lancashire County Council is about 1.2 million and the libraries serving that population are Lancashire Libraries.
 
 Lancashire Libraries deliver statutory, front-line library, information and digital services to communities from 64 buildings, 6 mobile library vehicles and through a Home Library service. They offer a free Digital Library including eBook, eAudio, newspaper and magazine download service. Public computers and WiFi are available without charge in all buildings. A library service is delivered at 5 Lancashire prisons. The School Library service supplies subscription-based reading and library services to primary schools, special schools, nurseries and children’s centres.
 
-Lancashire are a library service that have always been keen to engage with data projects; they understand their data, and want to do more with it. Carolyn Waite, the Information Development Manager has previously been involved in projects such as the [Library Data Schemas]([Libraries and open data – DCMS Libraries](https://dcmslibraries.blog.gov.uk/2019/09/06/libraries-and-open-data/)), and round table data discussions with sector leaders. When I proposed the idea of data storytelling in library services, Lancashire were one of the first to volunteer, as well as suggesting areas they'd like to explore further. One of these was library membership and usage.
+Lancashire are a library service that have always been keen to engage with data projects; they understand their data, and want to do more with it. Carolyn Waite, the Information Development Manager has previously been involved in projects such as the [Library Data Schemas](https://dcmslibraries.blog.gov.uk/2019/09/06/libraries-and-open-data/), and round table data discussions with sector leaders. When I proposed the idea of data storytelling in library services, Lancashire were one of the first to volunteer, as well as suggesting areas they'd like to explore further. One of these was library membership and usage.
 
 When a user joins Lancashire Libraries, the library service need a small amount of information: Name, Local library, Date of birth, Address, Telephone number and/or email address.
 
@@ -25,9 +25,49 @@ When analysing members we don't want to pry into their personal lives. Their inc
 A postcode can be split in a couple of ways. For example, postcode LA1 1HY:
 
 - Has an outward part of the postcode 'LA1', and an inward part '1HY'
-- Has a postcode area 'LA', postcode district 'LA1', postcode sector 'LA1 1' and postcode unit 'LA1 1HY' (the full postcode)
+- Has a postcode area 'LA', postcode district 'LA1', postcode sector 'LA1 1' and unit of 'HY'
 
-[To add here: Postcode breakdown diagram]
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="background: #e5e5e5">Outcode</td>
+    <td></td>
+    <td colspan="3" style="background: #e5e5e5">Incode</td>
+  </tr>
+  <tr>
+    <td>L</td>
+    <td>A</td>
+    <td>1</td>
+    <td></td>
+    <td>1</td>
+    <td>H</td>
+    <td>Y</td>
+  </tr>
+  <tr>
+    <td colspan="5"></td>
+    <td colspan="2" style="background: #e5e5e5">Unit</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="background: #e5e5e5">Area</td>
+    <td colspan="5"></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="background: #e5e5e5">District</td>
+    <td colspan="4"></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="background: #e5e5e5">Sector</td>
+    <td colspan="2"></td>
+  </tr>
+</table>
 
 Despite postcodes being useful, we shouldn't start any analysis until we process them. Postcodes were designed for efficiently delivering letters - not analysing groups of people. An individual postcode unit could have just one resident - which would make that data personally identifiable information (PII). It's possible to break down the postcode to be less specific, such as the postcode area, but they have a wide variation in population size, and can span across multiple communities - making them less than useful for comparison.
 
@@ -65,7 +105,7 @@ That kind of local expertise proved the rule that when doing any data analysis i
 
 [Add here: Example map image showing Lancashire and library membership]
 
-People borrowing books
+### People borrowing books
 
 Lancashire active borrower lists define an active borrower as a registered user with at least one physical format issue transaction in the last 12 months. The active borrower count was about 100k out of the total population of 1.2 million (8%).
 
@@ -97,7 +137,7 @@ To some extent this is proving an ‘obvious’ point. Most people would guess t
 
 The majority of PNET users were from urban areas, tending towards towns and cities. This was actually slightly down in the Major Conurbations. Again, this is where local knowledge was essential - Preston library had been temporarily closed with reduced PNET provision and usage and it is likely this would have skewed the usage away from the most urban areas.
 
-### People scrolling books and magazines on their devices
+### People reading on their devices
 
 There were 30k active ebook/emagazine users. Like PNET usage, this is less than physical lending but still a significant number of users. For context, the Libraries Connected report said that an average of 7% of registered library users are ebook borrowers. That's a different measure, but these figures go further than that to show that ebook usage is close to 30% of the count of physical borrowers.
 

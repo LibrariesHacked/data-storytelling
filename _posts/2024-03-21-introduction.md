@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to library storytelling
+title: Introduction
 tags: Site
 author: Dave
 ---
@@ -22,4 +22,4 @@ There have been two groups of contributors so far (sometimes overlapping):
 
 Both of these are important. The community group will help to shape the project, and make sure it is relevant and useful. The first storytellers will help to create some of the first content pieces, and make sure it is engaging and informative.
 
-See the [information page](/about.html) for more detailed information on the project. Get in touch if you have any thoughts or ideas. I'm looking forward to getting started!
+See the [about page](/about) for more detailed information on the project. Get in touch if you have any thoughts or ideas. I'm looking forward to getting started!
