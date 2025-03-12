@@ -3,10 +3,10 @@ layout: post
 title: The membership of Lancashire libraries
 tags: Membership
 author: Dave and Lancashire Libraries
-published: true
+published: false
 ---
 
-Lancashire is a ceremonial county in North West England. The name Lancashire can mean different things and we shouldn't confuse the ceremonial county with the County Council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
+Lancashire is in North West England - it can also mean different things and we shouldn't confuse the ceremonial county with the County Council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
 
 The population of Lancashire County Council is about 1.2 million and the libraries serving that population are Lancashire Libraries.
 
