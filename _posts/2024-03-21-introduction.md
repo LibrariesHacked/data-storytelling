@@ -1,18 +1,16 @@
 ---
 layout: post
 title: Introduction
-tags: Site
+tags: Storytelling
 author: Dave
 excerpt-separator: <!--more-->
 ---
 
-About two months ago, on [the library data blog](https://blog.librarydata.uk/), I published a post with an idea for a new project.
-
-<!--more-->
+About two months ago, on [the library data blog](https://blog.librarydata.uk/), I published a post with an idea for a new project. <!--more-->
 
 > This is a invitation to public library organisations to get involved in a new project.
 >
-> The idea: create a set of data stories using public library data, add a beautiful data visualisation for each one, and publish in physical and digital form.
+> The idea: a set of data stories using public library data, each with a beautiful data visualisation, and published in physical and digital form.
 
 This was inspired by many things. The impact and beauty of projects like [Information is Beautiful](https://informationisbeautiful.net/), the power of data storytelling to inform, educate, and entertain, as well as the obvious untapped potential of public library data.
 
