@@ -3,19 +3,21 @@ layout: post
 title: The membership of Lancashire libraries
 tags: Membership
 author: Dave and Lancashire Libraries
-excerpt-separator: <!--more-->
-published: false
+excerpt_separator: <!--more-->
+published: true
 ---
 
-Lancashire is in North West England - it can also mean different things and we shouldn't confuse the ceremonial county with the County Council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
+When I proposed the idea of data storytelling in library services, Lancashire were one of the first to volunteer, as well as suggesting areas they'd like to explore further. One of these was library membership and usage.
 
 <!--more-->
+
+Lancashire is a county in North West England. It can also mean different things and we shouldn't confuse the ceremonial county with the County Council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
 
 The population of Lancashire County Council is about 1.2 million and the libraries serving that population are Lancashire Libraries.
 
 Lancashire Libraries deliver statutory, front-line library, information and digital services to communities from 64 buildings, 6 mobile library vehicles and through a Home Library service. They offer a free Digital Library including eBook, eAudio, newspaper and magazine download service. Public computers and WiFi are available without charge in all buildings. A library service is delivered at 5 Lancashire prisons. The School Library service supplies subscription-based reading and library services to primary schools, special schools, nurseries and children’s centres.
 
-Lancashire are a library service that have always been keen to engage with data projects; they understand their data, and want to do more with it. Carolyn Waite, the Information Development Manager has previously been involved in projects such as the [Library Data Schemas](https://dcmslibraries.blog.gov.uk/2019/09/06/libraries-and-open-data/), and round table data discussions with sector leaders. When I proposed the idea of data storytelling in library services, Lancashire were one of the first to volunteer, as well as suggesting areas they'd like to explore further. One of these was library membership and usage.
+Lancashire are a library service that have always been keen to engage with data projects; they understand their data, and want to do more with it. Carolyn Waite, the Information Development Manager has previously been involved in projects such as the [Library Data Schemas](https://dcmslibraries.blog.gov.uk/2019/09/06/libraries-and-open-data/), and round table data discussions with sector leaders.
 
 When a user joins Lancashire Libraries, the library service need a small amount of information: Name, Local library, Date of birth, Address, Telephone number and/or email address.
 

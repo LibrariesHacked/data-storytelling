@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 tags: Storytelling
 author: Dave
-excerpt-separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 About two months ago, on [the library data blog](https://blog.librarydata.uk/), I published a post with an idea for a new project. <!--more-->
