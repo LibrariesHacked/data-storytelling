@@ -25,7 +25,7 @@ To gain insight into the service and its membership, the most useful piece of da
 
 When analysing members we don't want to pry into their personal lives. Their income, education level, and health shouldn't be collected or analysed. But we can analyse membership counts by where people live, and look at the profile of those areas. It doesn't mean that everyone who lives in that area is the same, but as long as we have a decent sample of people, we can start to gather insight.
 
-<span style="display:block" class="aside">
+<div class="aside" markdown="1">
 
 ### Detour: about postcodes
 
@@ -44,7 +44,7 @@ The Office for National Statistics publish Lower Super Output Areas (LSOAs), geo
 
 It can be hard to get our heads around the rankings as there are so many small areas, and they don't have very friendly names. For example, I live in E01032047 which is ranked 26259 out of 32844 for deprivation. Not exactly a phrase that communicates a compelling story. To make things easier, the ranks are split into deciles, and areas are assigned a deprivation measure on a 1-10 scale. A decile of 1 means an area is within the 10% most deprived in England. Decile 10 would be an area of low deprivation (within the 10% least deprived.)
 
-</span>
+</div>
 
 ### What do library members do?
 
