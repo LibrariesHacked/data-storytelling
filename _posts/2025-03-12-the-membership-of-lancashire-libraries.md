@@ -25,54 +25,14 @@ To gain insight into the service and its membership, the most useful piece of da
 
 When analysing members we don't want to pry into their personal lives. Their income, education level, and health shouldn't be collected or analysed. But we can analyse membership counts by where people live, and look at the profile of those areas. It doesn't mean that everyone who lives in that area is the same, but as long as we have a decent sample of people, we can start to gather insight.
 
-### About postcodes
+<aside>
+
+### Detour: about postcodes
 
 A postcode can be split in a couple of ways. For example, postcode LA1 1HY:
 
 - Has an outward part of the postcode 'LA1', and an inward part '1HY'
 - Has a postcode area 'LA', postcode district 'LA1', postcode sector 'LA1 1' and unit of 'HY'
-
-<table>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="background: #e5e5e5">Outcode</td>
-    <td></td>
-    <td colspan="3" style="background: #e5e5e5">Incode</td>
-  </tr>
-  <tr>
-    <td>L</td>
-    <td>A</td>
-    <td>1</td>
-    <td></td>
-    <td>1</td>
-    <td>H</td>
-    <td>Y</td>
-  </tr>
-  <tr>
-    <td colspan="5"></td>
-    <td colspan="2" style="background: #e5e5e5">Unit</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="background: #e5e5e5">Area</td>
-    <td colspan="5"></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="background: #e5e5e5">District</td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td colspan="5" style="background: #e5e5e5">Sector</td>
-    <td colspan="2"></td>
-  </tr>
-</table>
 
 Despite postcodes being useful, we shouldn't start any analysis until we process them. Postcodes were designed for efficiently delivering letters - not analysing groups of people. An individual postcode unit could have just one resident - which would make that data personally identifiable information (PII). It's possible to break down the postcode to be less specific, such as the postcode area, but they have a wide variation in population size, and can span across multiple communities - making them less than useful for comparison.
 
@@ -83,6 +43,8 @@ Looking in more detail, you may find that there is a small community with a high
 The Office for National Statistics publish Lower Super Output Areas (LSOAs), geographic areas used for census statistics. Unlike postcode geographies, these are uniform in terms of population (around 1,500 people). As well as being able to see population counts by age, statistics like the [English indices of deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) give us deprivation measures across aspects such as income, employment, health, crime, income, education and skills. These measures are combined and the areas all ranked, in order to produce a single 'index of multiple deprivation'. Essentially that means that if we group membership by LSOA we have a useful measure of need in those groups. If we wanted more detail we could look at individual measures such as education.
 
 It can be hard to get our heads around the rankings as there are so many small areas, and they don't have very friendly names. For example, I live in E01032047 which is ranked 26259 out of 32844 for deprivation. Not exactly a phrase that communicates a compelling story. To make things easier, the ranks are split into deciles, and areas are assigned a deprivation measure on a 1-10 scale. A decile of 1 means an area is within the 10% most deprived in England. Decile 10 would be an area of low deprivation (within the 10% least deprived.)
+
+</aside>
 
 ### What do library members do?
 
@@ -100,15 +62,16 @@ These were all taken from Summer 2024. A May 2024 report from Libraries Connecte
 
 ### Explorer maps
 
-We're familiar with people using maps for exploration, but perhaps less so for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people that know the area in question.
+![Map exploring](/assets/images/2025-03-12-map-exploring.jpg 'Map exploring')
+_Exploring digital maps of Lancashire - this one highlighting high levels of deprivation in Brierfield_
 
-Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of different memberships types into counts per LSOA, while keeping the postcode data within the library service.
+We're familiar with people using maps for exploration, but perhaps less so for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people who know the area in question.
 
-Catherine also gave up time to look at the breakdown of these users, on a digital map which showed the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. Catherine was also able to being essential local expertise to the findings.
+Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of membership types into counts of membership per LSOA, while keeping the postcode data within the library service.
+
+Catherine also gave up time to look at this data on a digital map, which showed the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided some useful context. More importantly, Catherine was also able to being essential local expertise to the findings.
 
 That kind of local expertise proved the rule that when doing any data analysis it is important not to do it in isolation, without involving subject matter experts. The majority of the findings needed expertise to either confirm that it matched lived experience, or in some cases warn against making assumptions about data. A lot of the insight into the findings was also provided by Carolyn Waite.
-
-[Add here: Example map image showing Lancashire and library membership]
 
 ### People borrowing books
 
