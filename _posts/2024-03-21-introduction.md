@@ -3,9 +3,12 @@ layout: post
 title: Introduction
 tags: Site
 author: Dave
+excerpt-separator: <!--more-->
 ---
 
 About two months ago, on [the library data blog](https://blog.librarydata.uk/), I published a post with an idea for a new project.
+
+<!--more-->
 
 > This is a invitation to public library organisations to get involved in a new project.
 >
