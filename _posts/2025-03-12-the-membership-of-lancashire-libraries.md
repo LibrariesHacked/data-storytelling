@@ -66,45 +66,47 @@ Lancashire libraries have strong data capability: Nick Wotherspoon was very fami
 
 These were all taken from Summer 2024. A May 2024 report from Libraries Connected [Ebook lending in public libraries](https://www.librariesconnected.org.uk/news/report-cheaper-ebooks-libraries-could-revolutionise-promotion-reading), provides some data for different usage types across 28 library services across England and Wales. This will provide a useful baseline comparison for some of the findings.
 
-### Explorer maps
+### Exploring maps
 
 ![Map exploring](/assets/images/2025-03-12-map-exploring.jpg 'Map exploring')
-_Exploring digital maps of Lancashire - this one highlighting high levels of deprivation in Brierfield_
+_Exploring digital maps of Lancashire. This one set to highlight areas of high deprivation by shading in darker colour and overlaying the deprivation measure. The area shown is Brierfield._
 
-We're familiar with people using maps for exploration, but perhaps less so for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people who know the area in question.
+We're familiar with people using maps for exploration, but less so for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people who know the area in question.
 
-Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of membership types into counts of membership per LSOA, while keeping the postcode data within the library service.
+Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of membership types into counts of membership per LSOA, while ensuring the postcode data was kept safe within the library service.
 
-Catherine also gave up time to look at this data on a digital map, which showed the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided some useful context. More importantly, Catherine was also able to being essential local expertise to the findings.
+Catherine also gave up time to look at this data on a digital map, which showed the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided useful context. More importantly, Catherine was also able to being essential local expertise to the findings.
 
-That kind of local expertise proved the rule that when doing any data analysis it is important not to do it in isolation, without involving subject matter experts. The majority of the findings needed expertise to either confirm that it matched lived experience, or in some cases warn against making assumptions about data. A lot of the insight into the findings was also provided by Carolyn Waite.
+That kind of local expertise proved that when doing any data analysis it is important not to do it in isolation, without involving subject matter experts. The majority of the findings needed expertise to either confirm that it matched lived experience, or in some cases warn against making assumptions about things the data hinted at. A lot of the insight into the findings was also provided by Carolyn Waite.
 
-## People borrowing books
+## Who borrows books?
 
-Lancashire active borrower lists define an active borrower as a registered user with at least one physical format issue transaction in the last 12 months. The active borrower count was about 100k out of the total population of 1.2 million (8%).
+Lancashire active borrower lists define an active borrower as a registered user with at least one physical format issue transaction in the last 12 months. The active borrower count was about 100,000 out of the total population of 1.2 million (8%).
 
-When looking across different areas in Lancashire, the lowest figures for active borrowers were 1% of the population, and the maximum was 21%. It really highlights the difference in engagement with library borrowing between different communities.
+When looking across different areas in Lancashire, the lowest numbers for active borrowers were 1% of the population, and the maximum was 21%. It provided a really stark example of the difference in library borrowing between different communities.
 
-Even at the low end there are positives though. While areas of just 1% active borrowers are low, it's encouraging to see there were no areas without any active borrowers. If you're looking to increase usage in a community it's good to know that you have some users in that area. Assuming about 1,500 people per LSOA, just 1% would be 15 people who can advocate for the service. Perhaps it's a good opportunity for a refer a friend scheme?).
+Even with the low numbers there are positives though. While an area of 1% active borrowers is low, it's encouraging to see are no areas without _any_ active borrowers. If you're looking to increase usage in a community it's good to know that you have some users in that area. Assuming about 1,500 people per LSOA, 1% would be 15 people who can advocate for the service. Perhaps it's a good opportunity for a refer a friend scheme?
 
-It's also a positive indication for the service that borrowing can be greater than 20%. If all areas of the County got to that level, it would amount to over doubling active borrowing. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
+It's also a positive indication for the service that active borrowing can be greater than 20%. If all areas of the county got to that level, it would amount to over doubling active borrowing. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
 
-The area with 21% active borrowers was an LSOA that fell on the south side of Parbold. I've found in other examples of this data analysis that communities with a local library have high active usage. That sounds obvious, but isn't always reflected in policy - the theory often goes that many people can reach a library without necessarily having one locally. However, a community having a physical library (or mobile library stop) is a great way of increasing membership. It was no surprise to discover that Parbold has a thriving library, with regular events, and is open 5 days a week.
+The area with 21% active borrowers was an LSOA that fell on the south side of Parbold. I've found in other examples of this data analysis that having a local library within a community increases active usage. That sounds like it should be obvious, but it isn't always reflected in policy. One theory can be that many people can reach a library without necessarily having one in their immediate location, so it's not important to have them everywhere. It was no surprise to discover that Parbold has a thriving library, with regular events, which is open 5 days a week.
 
 ![The library at Parbold](/assets/images/2025-03-12-parbold.jpg 'The library at Parbold')
-_The library at Parbold. Self-evidently a great library._
+_The lovely looking library at Parbold. Photo provided by and copyright Lancashire libraries._
 
 We compared the spread of active borrowers across the different deprivation levels of the LSOAs (using the 'index of multiple deprivation'). We could see that this matched the general population across those different deprivation levels. This suggests that, in terms of borrowing in Lancashire libraries, there isn’t a significant bias to favour either areas of low or high deprivation.
 
 We also looked at usage across different measures of how rural/urban each LSOA was, to see if there were any significant differences. Although generally uniform, there seemed slightly lower active borrowing in the Major conurbation areas (the biggest towns). Lancashire has 6 [mobile library vehicles]([Mobile Library - Stops list](https://lancashirecc.maps.arcgis.com/apps/dashboards/37aa3e51fd354e22a763389535b5cc55)) with hundreds of stops - it's highly likely this coverage across the authority helps to ensure that rural borrowing isn't disadvantaged.
 
-### People on the computers
+### People using the computers
 
-In Lancashire, PNET is the term used for the People's Network computers.
+In Lancashire, PNET is the term used for the People's Network computers. The People's Network was a government initiative to provide free access to computers and the Internet in public libraries.
 
-There were 47k active members who are PNET users. These seemed high - while less than half the physical borrowing counts it was by no means a small percentage.
+Analysing PNET usage has a slightly different context to analysing book borrowing. With library computers, it can be more about ensuring we meet the _need_ of different communities rather than seeing the broader positive outcomes from engaging with the library for reading (while this still essential for many people).
 
-Across different LSOAs this had a significant range of differences in terms of population: from 0% in some areas, to 16% in another. The area with 16% active PNET members was an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
+There were 47,000 active members who are PNET users. This imemdiately seemed high - while it is less than half the active physical borrowing counts it is by no means a small percentage.
+
+Across different LSOAs this had a significant range of differences: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members was an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
 
 We looked at differences in the proportion of PNET users across different deprivation measures. 30% of the PNET users were from areas that have a multiple deprivation index of 1 (the areas with the very highest measure of deprivation on a scale of 1-10). This was a clear result that showed PNET users were significantly likely to be from high deprived areas.
 
