@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-When I proposed the idea of data storytelling in library services, Lancashire were one of the first to volunteer, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
+When I proposed the idea of data storytelling in library services, Lancashire libraries were one of the first to volunteer, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
 
 <!--more-->
 
@@ -15,11 +15,11 @@ When I proposed the idea of data storytelling in library services, Lancashire we
 
 Lancashire is a county in North West England. The name can refer to different things and we shouldn't confuse the ceremonial county with the county council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
 
-The population of Lancashire County Council is about 1.2 million and the libraries serving that population are Lancashire Libraries.
+The population of Lancashire County Council is about 1.2 million and the libraries serving that population are Lancashire libraries.
 
-Lancashire Libraries deliver statutory, front-line library, information and digital services to communities from 64 buildings, 6 mobile library vehicles and through a Home Library service. They offer a free Digital Library including eBook, eAudio, newspaper and magazine download service. Public computers and WiFi are available without charge in all buildings. A library service is delivered at 5 Lancashire prisons. The School Library service supplies subscription-based reading and library services to primary schools, special schools, nurseries and children’s centres.
+Lancashire libraries deliver statutory, front-line library, information and digital services to communities from 64 buildings, 6 mobile library vehicles and through a Home Library service. They offer a free Digital Library including eBook, eAudio, newspaper and magazine download service. Public computers and WiFi are available without charge in all buildings. A library service is delivered at 5 Lancashire prisons. The School Library service supplies subscription-based reading and library services to primary schools, special schools, nurseries and children’s centres.
 
-Lancashire are a library service that have always been keen to engage with data projects; they understand their data, and want to do more with it. Carolyn Waite, the Information Development Manager had also previously been involved in projects such as the [Library Data Schemas](https://dcmslibraries.blog.gov.uk/2019/09/06/libraries-and-open-data/), and round table data discussions with sector leaders.
+Lancashire are a library service that have always been keen to engage with data projects; they understand their data, and want to do more with it. Carolyn Waite, the Information Development Manager has previously been involved in projects such as the [Library Data Schemas](https://dcmslibraries.blog.gov.uk/2019/09/06/libraries-and-open-data/), and round table data discussions with sector leaders.
 
 When a user joins Lancashire Libraries, the library service requests a small amount of information: Name, Local library, Date of birth, Address, Telephone number and/or email address.
 
@@ -31,9 +31,7 @@ When analysing members we don't want to pry into their personal lives. Their inc
 
 ## Aside: about postcodes
 
-Despite postcodes being useful, we shouldn't start any analysis until we process them. Postcodes were designed for efficiently sorting and delivering letters - not analysing groups of people.
-
-Our modern day postcodes were piloted in Norwich in the 1950s. Postmaster General Tony Benn then announced in 1965 that postcodes would be rolled out across the UK.
+Our modern day postcodes were piloted in Norwich in the 1950s. Postmaster General Tony Benn then announced in 1965 that postcodes would be rolled out across the UK. Despite postcodes being useful, we shouldn't start any analysis until we process them. Postcodes were designed for efficiently sorting and delivering letters - not analysing groups of people.
 
 A postcode can be split in a couple of ways. For example, postcode LA1 1HY:
 
@@ -94,7 +92,7 @@ It's also a positive indication for the service that borrowing can be greater th
 The area with 21% active borrowers was an LSOA that fell on the south side of Parbold. I've found in other examples of this data analysis that communities with a local library have high active usage. That sounds obvious, but isn't always reflected in policy - the theory often goes that many people can reach a library without necessarily having one locally. However, a community having a physical library (or mobile library stop) is a great way of increasing membership. It was no surprise to discover that Parbold has a thriving library, with regular events, and is open 5 days a week.
 
 ![The library at Parbold](/assets/images/2025-03-12-parbold.jpg 'The library at Parbold')
-_The librry at Parbold. Self-evidently a great library._
+_The library at Parbold. Self-evidently a great library._
 
 We compared the spread of active borrowers across the different deprivation levels of the LSOAs (using the 'index of multiple deprivation'). We could see that this matched the general population across those different deprivation levels. This suggests that, in terms of borrowing in Lancashire libraries, there isn’t a significant bias to favour either areas of low or high deprivation.
 
