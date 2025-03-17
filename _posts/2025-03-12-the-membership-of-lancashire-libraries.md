@@ -4,7 +4,7 @@ title: The membership of Lancashire libraries
 tags: Membership
 author: Dave and Lancashire Libraries
 excerpt_separator: <!--more-->
-published: true
+published: false
 ---
 
 Lancashire libraries were one of the first to volunteer for a library storytelling project, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
