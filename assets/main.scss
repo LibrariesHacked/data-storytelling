@@ -35,3 +35,15 @@ thead {
   text-align: left;
   vertical-align: bottom;
 }
+
+.pdf-print {
+  display: inline;
+  margin: auto 0;
+  button {
+    background-color: #f8f8f8;
+    border: 1px solid #eaecef;
+    border-radius: 3px;
+    padding: 0.5em;
+    margin: 0.5em;
+  }
+}
