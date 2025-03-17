@@ -1,5 +1,9 @@
 <footer>
   <span>
+    <!-- Add a link button to run the printPDF function with the current URL -->
+    <button onclick="printPDF()">Download PDF</button>
+  </span>
+  <span>
     Made with Jekyll using the
     <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
   </span>
@@ -9,3 +13,6 @@
     defer
   ></script>
 </footer>
+
+<script src="/assets/js/html2pdf.bundle.min.js"></script>
+<script src="/assets/js/pdf.js"></script>
