@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-When I proposed the idea of data storytelling in library services, Lancashire libraries were one of the first to volunteer, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
+Lancashire libraries were one of the first to volunteer for a library storytelling project, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
 
 <!--more-->
 
@@ -50,7 +50,7 @@ It can be hard to get our heads around the rankings as there are so many small a
 
 </aside>
 
-## What do library members do?
+## Library membership and usage
 
 When considering a 'library member' we shouldn't limit ourselves to traditional definitions of usage. [CIPFA library statistics](https://www.gov.uk/government/publications/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries) collect the number of 'active borrowers' across library services. This excludes anyone who is using a library for any other reason: computers, eBooks, eMagazines, etc.
 
@@ -156,7 +156,7 @@ Firstly, the main takeaway was that the numbers were small, and it was difficult
 | 2019-2020 | 2880                |
 | 2020-2021 | 3943                |
 
-There is a significant increase in registrations (37%), but still overall low numbers. We mapped both sets of years across the County to see if there were clear patterns or ‘hotpots’ of registrations.
+There is a significant increase in registrations (37%), but still overall low numbers. We mapped both sets of years across the County to see if there were clear patterns or ‘hotspots’ of registrations.
 
 In 2019-2020 we didn’t see any clear patterns. At most the registrations amounted to 1% of the population of a single LSOA, which would be around 15 people.
 
@@ -170,17 +170,15 @@ It's another postive indication for the library service that rural take-up of eb
 
 ## Conclusion
 
-We found:
-
 - Active borrowing was uniform across different deprivation levels, showing it remaining a universal service able to attract people from any background
-- In some areas active borrowing rises to 21% of the population displaying the potential to be very high
+- In some areas active borrowing rises to 21% of the population displaying a potential to be very high
 - 30% of existing PNET users reside in areas of the very highest deprivation. In one deprived neighbourhood in Brierwood, this was 16% of the population. A clear display of need being met by library services.
 - Ebook/emagazine usage was slightly lower in areas of high deprivation
 - Ebook/emagazine takeup was slightly higher in rural areas
-- There is also a great potential for increase in digital lending - with one community in Silverdale seeing 8% of the population being active users but 2% being the average
+- There is great potential for increase in digital lending - with one community in Silverdale seeing 8% of the population being active users but 2% being the average
 
-With any data analysis the more you delve into it the more questions it raises.
+As with any data analysis, the more you delve into it the more questions it raises!
 
-Exploring membership by area has been a useful way of visualising different types of library usage, and of understanding some of the small differences between different communities.
+Exploring membership in small communities has been a useful way of visualising different types of library usage, and of understanding some of the differences between those communities.
 
-It would be possible to permanently embed such exploration in a library service with the maps being updated regularly from fresh data. Potentially this would be very powerful for a ibrary service to monitor and target gaps of library engagement.
+It would be possible to permanently embed such capability, with the maps being updated regularly from fresh data. Potentially this would be very powerful tool for a library service to monitor and target gaps of library engagement.
