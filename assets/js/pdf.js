@@ -10,5 +10,5 @@ function printPDF () {
   }
 
   // Old monolithic-style usage:
-  html2pdf(element, opt)
+  html2pdf(element)
 }
