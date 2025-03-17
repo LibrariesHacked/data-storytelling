@@ -10,3 +10,27 @@ aside {
   border-radius: 3px;
   padding: 1em;
 }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  empty-cells: show;
+  border: 1px solid #eaecef;
+}
+
+td,
+th {
+  border-left: 1px solid #eaecef;
+  border-width: 0 0 0 1px;
+  font-size: inherit;
+  margin: 0;
+  overflow: visible; /* to make this where the title is really long work */
+  padding: 0.5em 1em; /* cell padding */
+}
+
+thead {
+  background-color: #f8f8f8;
+  color: #000;
+  text-align: left;
+  vertical-align: bottom;
+}
