@@ -9,5 +9,5 @@ function printPDF () {
     jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
   }
 
-  html2pdf(element, opt)
+  html3pdf(element, opt)
 }
