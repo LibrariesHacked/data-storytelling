@@ -4,11 +4,9 @@ function printPDF () {
   const element = document.getElementsByClassName('post')[0]
   const opt = {
     margin: 1,
-    filename: `${fileName}.pdf`,
-    image: { type: 'jpeg', quality: 0.98 },
-    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+    filename: `${fileName}.pdf`
   }
 
   // Old monolithic-style usage:
-  html2pdf(element)
+  html2pdf(element, opt)
 }
