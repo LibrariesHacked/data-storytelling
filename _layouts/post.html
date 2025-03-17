@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Written by</span>
+    <span>A library story by</span>
     {% if page.author %}
     {{ page.author }}
     {% else %}
@@ -18,15 +18,16 @@ layout: default
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
-  <div class="pdf-print">
-    <!-- Add a link button to run the printPDF function with the current URL -->
-    <button onclick="printPDF()">Download story as PDF</button>
-  </div>
 
   {{ content }}
 </div>
 
 {% if page.comments %} {% include disqus_comments.html %} {% endif %}
+
+<div class="pdf-print">
+  <!-- Add a link button to run the printPDF function with the current URL -->
+  <button onclick="printPDF()">Download story as PDF</button>
+</div>
 
 <div class="pagination">
   {% if page.next.url %}
