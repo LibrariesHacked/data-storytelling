@@ -37,13 +37,15 @@ thead {
 }
 
 .pdf-print {
-  display: inline;
-  margin: auto 0;
+  display: block;
+  text-align: center;
   button {
     background-color: #f8f8f8;
     border: 1px solid #eaecef;
     border-radius: 3px;
-    padding: 0.5em;
-    margin: 0.5em;
+    padding: 1em;
+    margin: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
   }
 }
