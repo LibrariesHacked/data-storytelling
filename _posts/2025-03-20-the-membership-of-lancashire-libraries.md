@@ -74,7 +74,7 @@ These were all taken from Summer 2024. A May 2024 report from Libraries Connecte
 
 ### Exploring maps
 
-![Map exploring](/assets/images/2025-03-12-map-exploring.jpg 'Map exploring')
+![Map exploring](/assets/images/2025-03-20-map-exploring.jpg 'Map exploring')
 _Exploring digital maps of Lancashire. This one is set to highlight areas of high deprivation by shading them a darker colour and overlaying the deprivation decile measure._
 
 We're familiar with people using maps for exploration, but not so much for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people who know the area in question.
@@ -97,7 +97,7 @@ It's also a positive indication for the service that active borrowing can be gre
 
 The area with 21% active borrowers was an LSOA that fell on the south side of Parbold library. Other examples of this data analysis have also shown that usage peaks around local libraries. That sounds like it should be obvious, but it isn't always reflected in policy. Policy can sometimes advise that because people can reach a library without necessarily having one in their immediate location, local branches are less important. The data shows though that the presence of a library increases usage. It was no surprise to discover that Parbold has a thriving library, with regular events, which is open 5 days a week.
 
-![The library at Parbold](/assets/images/2025-03-12-parbold.jpg 'The library at Parbold')
+![The library at Parbold](/assets/images/2025-03-20-parbold.jpg 'The library at Parbold')
 _The lovely looking library at Parbold. Photo provided by and copyright &copy; Lancashire libraries._
 
 We compared the spread of active borrowers across the different deprivation levels of the LSOAs, using the multiple deprivation decile values. We could see that this broadly matched the general population profile. This suggests that, in terms of borrowing, there isn’t a significant bias to favour either areas of low or high deprivation.
@@ -114,7 +114,7 @@ There were 47,000 active members who are PNET users. This imemdiately seemed hig
 
 Across different LSOAs there was a significant range of differences: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members was an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
 
-![Brierfield PNET Usage](/assets/images/2025-03-12-brierfield-pnet-usage.jpg 'Brierfield PNET Usage')
+![Brierfield PNET Usage](/assets/images/2025-03-20-brierfield-pnet-usage.jpg 'Brierfield PNET Usage')
 _Brierfield PNET Usage. The map is set to highlight in darker shades areas of greater % of the population using the PNET. This varies from 0% to 16%._
 
 We looked at how PNET usage varied across different deprivation measures. 30% of the PNET users were from areas that have a multiple deprivation index of 1 (areas ranked in the 10% most deprived in England). This clearly showed that PNET users are significantly more likely to be from high deprived areas.
@@ -139,7 +139,7 @@ High levels of ebook usage seemed to be centred around bigger libraries. It was 
 
 The area with really high usage (8%) was Silverdale, a small affluent village. It is likely that a lot of residents speak to each other and will want to support their local amenities i.e. the library. There will also be a high level of households having devices to enable e-book/audio, and residents will have a high level of educational attainment and literacy. We can see this from the deprivation indicators where Silverdale has a multiple deprivation index of 9 - putting it amongst the 20% least deprived neighbourhoods in England.
 
-![Silverdale ebook/emagazine usage](/assets/images/2025-03-12-ebook-usage-silverdale.jpg 'Silverdale ebook/emagazine usage')
+![Silverdale ebook/emagazine usage](/assets/images/2025-03-20-ebook-usage-silverdale.jpg 'Silverdale ebook/emagazine usage')
 _Silverdale ebook/emagazine usage. The map is set to highlight in darker shades areas of greater % of the population using ebooks and emagazines. In Silverdale this reaches 8% of the population._
 
 Usage of these digital services was slightly higher in rural areas than urban areas.
