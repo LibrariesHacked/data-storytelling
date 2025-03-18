@@ -40,17 +40,17 @@ A postcode can be split in a couple of ways e.g. postcode LA1 1HY:
 - Has an **outward** part of the postcode 'LA1', and an **inward** part '1HY'
 - Has a postcode **area** 'LA', **district** 'LA1', **sector** 'LA1 1' and **unit** of 'LA1 1HY'
 
-An individual postcode unit could have just one resident - which means something like a list of library member postcodes contains personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but they have a wide variation in population size, and can span across multiple communities - less useful for analysis.
+An individual postcode unit could have just one resident - which means that something like a list of library member postcodes contains personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but those have a wide variation in population size, and can span across multiple communities - less useful for analysis.
 
 To use postcodes we need to convert them to more useful areas - 'geographies' - which will give us more information about the people living in that area. For example, you may want to analyse how many library members there are per age group, and see whether it matches the breakdown in your local authority. That could be done for the library service as a whole, but it would provide limited insight. It is between small local communities that you will see wide differences in the age of the resident population, not in the overall authority.
 
-With smaller geographies you could find examples like a community with a high percentage of elderly residents with very few of them using the library service, compared to other areas. This would be hard to discover in wider statistics, as they become submerged by bigger numbers. We need to analyse at the level of individual communities in order to assess and tackle reduced library usage.
+With smaller geographies it's possible to find more detailed examples. There may generally be high levels of library usage among elderly people, but then you find a community with a high percentage of elderly residents and very few of them using the library service. This would be hard to discover in wider statistics, as they become submerged by bigger numbers. We need to analyse at the level of individual communities in order to assess and tackle reduced library usage.
 
-The Office for National Statistics (ONS) publish Lower Super Output Areas (LSOAs) - geographic areas used for statistics. Unlike postcodes, these are uniform in terms of population (around 1,500 people). As well as regularly publishing population counts by age, statistics like the [English indices of deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) give us deprivation measures across aspects such as income, employment, health, crime, income, education and skills.
+The Office for National Statistics (ONS) publish Lower Super Output Areas (LSOAs) - geographic areas used for statistics. Unlike postcodes, these are uniform in terms of population (around 1,500 people). As well as regularly publishing population counts by age, statistics like the [English indices of deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) give us deprivation measures for these areas, across aspects such as income, employment, health, crime, income, education and skills.
 
-These deprivation measures are combined and the LSOAs ranked, in order to produce a single 'index of multiple deprivation' (IMD) measure. That means that if we can report on library membership by LSOA we have a useful measure of need amongst different groups of members.
+These deprivation measures are combined and the LSOAs ranked, in order to produce a single 'index of multiple deprivation' (IMD) measure. If we can report on library membership by LSOA we have a useful measure of need amongst different groups of members.
 
-It can be hard to get our heads around these ranks of deprivation, as there are so many small areas, and they don't have very friendly names. For example, I live in area **E01032047** which is ranked **26259** out of **32844** for deprivation. It's not exactly a phrase that communicates a compelling story is it?
+It can be hard to get our heads around these ranks of deprivation, as there are so many small areas, and they don't have very friendly names. For example, I live in area **E01032047** which is ranked **26259** out of **32844** for deprivation. It's not exactly a sentence that communicates a compelling story is it?
 
 To make things easier, the ranks are split into deciles, and areas assigned a deprivation measure on a 1-10 scale. A decile of 1 means an area is within the 10% most deprived in England. Decile 10 would be an area of low deprivation (within the 10% least deprived.)
 
@@ -93,14 +93,14 @@ When looking across different areas in Lancashire, the lowest numbers for active
 
 Even with the low examples there are positives though. It's encouraging to see there are no areas without _any_ active borrowers. If you're looking to increase usage in a community it's good to have a starting point of _some_ users in that area. Assuming about 1,500 people per LSOA, 1% would be 15 people who can promote the service. Perhaps a good opportunity for a refer a friend scheme?
 
-It's also a positive indication for the service that active borrowing can be greater than 20%. If all areas of the county got to that level, it would mean over doubling active borrowing. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
+It's also a positive indication for the service that active borrowing can be greater than 20%. If all areas of the county got to that level, it would mean over doubling active borrowers. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
 
-The area with 21% active borrowers was an LSOA that fell on the south side of Parbold library. Other examples of this data analysis have also shown that usage peaks around local libraries. That sounds like it should be obvious, but it isn't always reflected in policy. Policy can sometimes advise that because people can reach a library without necessarily having one in their immediate location, local branches are less important. The data shows though that the presence of a library increases usage. It was no surprise to discover that Parbold has a thriving library, with regular events, which is open 5 days a week.
+The area with 21% active borrowers was an LSOA that fell on the south side of Parbold library. Other examples of this data analysis have also shown that usage peaks around local libraries. That sounds like it should be obvious, but it isn't always reflected in policy. Policy can sometimes be driven by the fact people can reach a library, without necessarily having one in their immediate location. The data shows though that the presence of a library increases usage. It was no surprise to discover that Parbold has a thriving library, with regular events, and open 5 days a week.
 
 ![The library at Parbold](/assets/images/2025-03-20-parbold.jpg 'The library at Parbold')
 _The lovely looking library at Parbold. Photo provided by and copyright &copy; Lancashire libraries._
 
-We compared the spread of active borrowers across the different deprivation levels of the LSOAs, using the multiple deprivation decile values. We could see that this broadly matched the general population profile. This suggests that, in terms of borrowing, there isn’t a significant bias to favour either areas of low or high deprivation.
+We compared the spread of active borrowers across the different deprivation levels of the LSOAs, using the 1-10 decile values. We could see that this broadly matched the profile of the general population. This suggests that, in terms of borrowing, there isn’t a significant bias to favour either areas of low or high deprivation.
 
 We also looked at usage across different measures of how rural/urban each LSOA was, to see if there were any significant differences. Although generally uniform, there seemed slightly lower active borrowing in the Major conurbation areas (the biggest towns). Lancashire has 6 [mobile library vehicles](https://lancashirecc.maps.arcgis.com/apps/dashboards/37aa3e51fd354e22a763389535b5cc55) with hundreds of stops - it's highly likely this coverage across the authority helps to ensure that rural borrowing isn't disadvantaged.
 
@@ -108,34 +108,34 @@ We also looked at usage across different measures of how rural/urban each LSOA w
 
 In Lancashire, PNET is the term used for the People's Network computers. [The People's Network](https://www.lorensbergs.co.uk/casestudies/the-peoples-network-20-years-on/) was a government initiative to provide free access to computers and the Internet in public libraries.
 
-Analysing PNET usage has a slightly different context to analysing book borrowing. Library computer provision can be more about ensuring we meet the _need_ of different communities rather than also seeing the broader positive outcomes from engaging with the library for reading (while this is still essential for many people).
+Analysing PNET usage has a slightly different context to analysing book borrowing. Library computer provision can be more about ensuring we meet the _need_ of different communities rather than also seeing the broader positive outcomes from engaging with the library for reading (while knowing this is still essential for many people).
 
 There were 47,000 active members who are PNET users. This imemdiately seemed high - it's less than half the active physical borrowing counts but by no means a small percentage.
 
-Across different LSOAs there was a significant range of differences: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members was an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
+Across different LSOAs there was a significant range of usage: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members was an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
 
 ![Brierfield PNET Usage](/assets/images/2025-03-20-brierfield-pnet-usage.jpg 'Brierfield PNET Usage')
-_Brierfield PNET Usage. The map is set to highlight in darker shades areas of greater % of the population using the PNET. This varies from 0% to 16%._
+_Brierfield PNET Usage. The map is set to highlight in darker shades the areas of greater % of the population using the PNET. This varies from 0% to 16%._
 
-We looked at how PNET usage varied across different deprivation measures. 30% of the PNET users were from areas that have a multiple deprivation index of 1 (areas ranked in the 10% most deprived in England). This clearly showed that PNET users are significantly more likely to be from high deprived areas.
+We looked at how PNET usage varied across different deprivation measures. 30% of all PNET users were from areas with a deprivation decile of 1 (areas in the 10% most deprived in England). This clearly showed that PNET users are not just likely to be from deprived areas, but from areas of the very highest deprivation.
 
-To some extent this is proving an ‘obvious’ point. Most people would guess that people in highly deprived areas are more likely to make use of library computers and the Internet available there, but it is still important to back this up by data. In our example of Brierfield, all the LSOAs around that area had a deprivation index of 1 (highly deprived), with one area showing PNET usage of 16% of the population. This not only shows that areas of high need require computer provision, it demonstrates the library service clearly meeting that essential need.
+To some extent this is proving an ‘obvious’ point. Most people would guess that people in highly deprived areas are more likely to make use of library computers, and the Internet available in libraries. But it is important to back this up with data. In our example of Brierfield, all the LSOAs around that area had a deprivation index of 1 (highly deprived), with one area showing PNET usage of 16% of the population. This not only proves that areas of high need require computer provision, it demonstrates the library service clearly meeting that essential need.
 
 The majority of PNET users were from urban areas, tending towards towns and cities. This was actually slightly down in the most urban areas (Major Conurbations). Again, this is where local knowledge was essential - Preston library had been temporarily closed with reduced PNET provision and usage, and it is likely this would have skewed the usage statistics.
 
 ## People reading on their devices
 
-There were 30,000 active ebook/emagazine users. Like PNET usage, this is fewer than physical lending but still a significant number of users. For context, the Libraries Connected report said that an average of 7% of registered library users are ebook borrowers. That's a slightly different measure as we've split up usage types, but Lancashire still show high numbers of users registered with digital services.
+There were 30,000 active ebook/emagazine users. Like PNET usage, this is fewer than physical lending but still a significant number. For context, the Libraries Connected report said that an average of 7% of registered library users are ebook borrowers. That's a slightly different measure as we've split up usage types, but Lancashire show high numbers of users registered with digital services.
 
 Again, we saw a significant variation between different areas - going from 0% in some neighbourhoods, to 8% in another, with an overall average of 2% of the population.
 
 Usage looked to be less in areas of high deprivation. If users in those areas are more likely to use library PCs and Internet then they are less likely to have their own devices with which to borrow ebooks. Plus the type of digital activity is likely to be different.
 
-A useful word of caution provided by Catherine was that we should consider that ebook/emagazine users in deprived households could well be sharing devices, and also library accounts. A highly affluent household may have multiple accounts and devices. This would skew the figures of ebook users more towards less deprived areas, but misleadingly so.
+A useful word of caution provided by Catherine was that we should consider that ebook/emagazine users in deprived households could be sharing devices, and also library accounts. A highly affluent household may have multiple accounts and devices. This would skew the figures of ebook users more towards less deprived areas, but misleadingly so.
 
-Knowing that there is less take up of the digital services in deprived areas could inform an action to market to users in those highly deprived areas for services like mobile data schemes or tablet borrowing, which would allow them to both use the Internet as well as having access to ebooks and emagazines.
+Knowing that there is less take up of the digital services in deprived areas could inform an action to market to users in those areas for services like mobile data schemes or tablet borrowing, which would allow them to use the Internet as well as having access to ebooks and emagazines.
 
-High levels of ebook usage seemed to be centred around bigger libraries. It was proposed that this could be due to digital champions in those libraries, or more focus and signage pointing people towards the ebooks service. An indication that a physical library service can still significantly increase digital usage.
+High levels of ebook usage seemed to be centred around bigger libraries. It was suggested that this could be due to digital champions in those libraries, or more focus and signage pointing people towards the ebooks service. This provides an indication that a physical library service can still significantly increase digital usage.
 
 The area with really high usage (8%) was Silverdale, a small affluent village. It is likely that a lot of residents speak to each other and will want to support their local amenities i.e. the library. There will also be a high level of households having devices to enable e-book/audio, and residents will have a high level of educational attainment and literacy. We can see this from the deprivation indicators where Silverdale has a multiple deprivation index of 9 - putting it amongst the 20% least deprived neighbourhoods in England.
 
