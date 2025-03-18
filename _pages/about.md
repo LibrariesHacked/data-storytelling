@@ -5,7 +5,7 @@ author: 'Dave'
 permalink: /about/
 ---
 
-Content on this site is published under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Content on this site is published under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This is aside from where an alternative statement may be made e.g. for a photo or a visualisation using third-party data.
 
 ## Who is this for?
 
@@ -17,7 +17,7 @@ I (Dave Rowe) am a software developer, and have been working in or around the pu
 
 During that time I founded [Libraries Hacked](https://librarieshacked.org/), a project to promote open data and digital prototypes for public libraries, and have been involved in [community digital projects](https://www.librarieshacked.org/projects/) that have used library data in interesting ways.
 
-Library data storytelling is a project to promote the use of data in libraries as well as providing a platform for sharing stories about libraries.
+Library data storytelling is a project to promote the use of data in libraries, as well as providing a platform for sharing stories about libraries.
 
 ## What does a data story look like?
 

@@ -7,13 +7,13 @@ excerpt_separator: <!--more-->
 published: false
 ---
 
-Lancashire libraries were one of the first to volunteer for a library storytelling project, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
+Lancashire libraries were one of the first services to volunteer for a library storytelling project, as well as suggesting areas of their data they'd like to explore. One of these was library membership and usage.
 
 <!--more-->
 
 ## Lancashire and its libraries
 
-Lancashire is a county in North West England. The name can refer to different things and we shouldn't confuse the ceremonial county with the county council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
+Lancashire is a county in North West England. The name can refer to different things and we shouldn't confuse the _ceremonial_ county with the county council. Lancashire County Council is one of 3 'upper-tier' local authorities within the ceremonial county, alongside Blackburn with Darwen, and Blackpool.
 
 The population of Lancashire County Council is about 1.2 million and the libraries serving that population are Lancashire libraries.
 
@@ -23,42 +23,48 @@ Lancashire are a library service that have always been keen to engage with data 
 
 When a user joins Lancashire Libraries, the library service requests a small amount of information: Name, Local library, Date of birth, Address, Telephone number and/or email address.
 
-One of the most useful pieces of data is one that gives the least direct information: the user's postcode. A postcode doesn't describe an individual, but it tells us a lot about a place. In society, we still use the term [postcode lottery](https://en.wikipedia.org/wiki/Postcode_lottery) to describe unequal provision of services such as healthcare and education, within different communities. Differences in socioeconomic status, ethnicity, age, and other demographic data are also stark between different areas.
+One of the most useful pieces of data is one that gives very little direct information: the user's postcode. A postcode doesn't describe an individual, but it tells us a lot about a place. In society, we still use the term [postcode lottery](https://en.wikipedia.org/wiki/Postcode_lottery) to describe unequal provision of services such as healthcare and education, between different communities. Differences in socioeconomic status, ethnicity, age, and other demographic data are also stark between different areas.
 
-When analysing members we don't want to pry into their personal lives. Their income, education level, and health shouldn't be collected or analysed. But we can analyse membership by where people live, and look at the profile of those areas. It doesn't mean that everyone who lives in that area is the same, but as long as we have a decent sample of people, we can start to gather insight.
+When analysing members we don't need to pry into their personal lives. Their income, education level, and health shouldn't be collected or analysed. But we can analyse where people live, and look at the profile of those areas. It doesn't mean that everyone who lives in that area is the same, but as long as we have a decent sample of people, we can start to gather insight.
 
 <aside markdown="1">
 
-## Aside: about postcodes
+## An aside about postcodes
 
-Our modern day postcodes were piloted in Norwich in the 1950s. Postmaster General Tony Benn then announced in 1965 that postcodes would be rolled out across the UK. Despite postcodes being useful, we shouldn't start any analysis until we process them. Postcodes were designed for efficiently sorting and delivering letters - not analysing groups of people.
+Our modern day postcodes were piloted in Norwich in the 1950s, then in 1965 Postmaster General Tony Benn announced that postcodes would be rolled out across the UK.
 
-A postcode can be split in a couple of ways. For example, postcode LA1 1HY:
+Despite postcodes being useful, we shouldn't start any analysis until we process them. Postcodes were designed for efficiently sorting and delivering letters - not analysing groups of people.
+
+A postcode can be split in a couple of ways e.g. postcode LA1 1HY:
 
 - Has an outward part of the postcode 'LA1', and an inward part '1HY'
 - Has a postcode area 'LA', postcode district 'LA1', postcode sector 'LA1 1' and unit of 'LA1 1HY'
 
-An individual postcode unit could have just one resident - which would make that data personally identifiable information (PII). It's possible to break down the postcode to be less specific, such as the postcode area, but they have a wide variation in population size, and can span across multiple communities - making them less than useful for comparison.
+An individual postcode unit could have just one resident - which would make listing that postcode personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but they have a wide variation in population size, and can span across multiple communities - less useful for comparison.
 
-To use postcodes we need to convert them to more useful areas - 'geographies' - which will give us more information about the people living in that area. For example, you may want to analyse the count of library members per age group, and see whether it matches the age breakdown in your local authority. That could be done for the library service as a whole, but wouldn't be that useful. It is between small local communities that you will see wide differences in the age of the resident population, not in the overall authority.
+To use postcodes we need to convert them to more useful areas - 'geographies' - which will give us more information about the people living in that area. For example, you may want to analyse the count of library members per age group, and see whether it matches the age breakdown in your local authority. That could be done for the library service as a whole, but it wouldn't be useful. It is between small local communities that you will see wide differences in the age of the resident population, not in the overall authority.
 
-Looking in more detail, you could find a small community with a high percentage of elderly residents, with very few of them using the library service. This would be hard to discover in wider statistics, as they become submerged by bigger numbers. We need to analyse at the level of individual communities in order to assess and tackle reduced library usage.
+With smaller geographies you could find examples like a community with a high percentage of elderly residents with very few of them using the library service, compared to other areas. This would be hard to discover in wider statistics, as they become submerged by bigger numbers. We need to analyse at the level of individual communities in order to assess and tackle reduced library usage.
 
-The Office for National Statistics publish Lower Super Output Areas (LSOAs), geographic areas used for census statistics. Unlike postcode geographies, these are uniform in terms of population (around 1,500 people). As well as being able to see population counts by age, statistics like the [English indices of deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) give us deprivation measures across aspects such as income, employment, health, crime, income, education and skills. These measures are combined and the areas all ranked, in order to produce a single 'index of multiple deprivation'. Essentially that means that if we group membership by LSOA we have a useful measure of need in those groups. If we wanted more detail we could look at individual measures such as education.
+The Office for National Statistics (ONS) publish Lower Super Output Areas (LSOAs) - geographic areas used for census statistics. Unlike postcodes, these are uniform in terms of population (around 1,500 people). As well as having population counts by age, statistics like the [English indices of deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) give us deprivation measures across aspects such as income, employment, health, crime, income, education and skills.
 
-It can be hard to get our heads around the rankings as there are so many small areas, and they don't have very friendly names. For example, I live in E01032047 which is ranked 26259 out of 32844 for deprivation. Not exactly a phrase that communicates a compelling story is it? To make things easier, the ranks are split into deciles, and areas are assigned a deprivation measure on a 1-10 scale. A decile of 1 means an area is within the 10% most deprived in England. Decile 10 would be an area of low deprivation (within the 10% least deprived.)
+These deprivation measures are combined and the LSOAs ranked, in order to produce a single 'index of multiple deprivation' (IMD) measure. That means that if we report on library membership by LSOA we have a useful measure of need in those groups.
+
+It can be hard to get our heads around the index as there are so many small areas, and they don't have very friendly names. For example, I live in area E01032047 which is ranked 26259 out of 32844 for deprivation. Not exactly a phrase that communicates a compelling story is it?
+
+To make things easier, the ranks are split into deciles, and areas are assigned a deprivation measure on a 1-10 scale. A decile of 1 means an area is within the 10% most deprived in England. Decile 10 would be an area of low deprivation (within the 10% least deprived.)
 
 </aside>
 
 ## Library membership and usage
 
-When considering a 'library member' we shouldn't limit ourselves to traditional definitions of usage. [CIPFA library statistics](https://www.gov.uk/government/publications/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries) collect the number of 'active borrowers' across library services. This excludes anyone who is using a library for any other reason: computers, eBooks, eMagazines, etc.
+When considering a 'library member' we shouldn't limit ourselves to traditional definitions of usage. [CIPFA library statistics](https://www.gov.uk/government/publications/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries) collect the number of 'active borrowers' across library services. This excludes anyone who is using a library for other reasons: computers, eBooks, eMagazines, etc.
 
 While borrowing still remains the primary reason for library membership, we shouldn't ignore other usage types. If we don't consider other usage we miss opportunities for insight, and even simple cross-marketing.
 
 If a service discovers it has communities who don't borrow books, but seem to be using the library for other activities, that's an opportunity to engage users when they are in the library. If a community seems to have little contact with the library at all, that may require further outreach activities outside of the library.
 
-Lancashire libraries have strong data capability: Nick Wotherspoon was very familiar with the reporting capabilities of the different library databases and was able to generate postcode lists for members with the following usage types:
+Lancashire libraries have strong data capability: Nick Wotherspoon, from the Lancashire County Council Business Intelligence team, was very familiar with the reporting capabilities of the different library databases and able to generate postcode lists for members with the following usage types:
 
 - Active borrowers of physical materials
 - Active PNET users (users of the public network computers)
@@ -69,15 +75,15 @@ These were all taken from Summer 2024. A May 2024 report from Libraries Connecte
 ### Exploring maps
 
 ![Map exploring](/assets/images/2025-03-12-map-exploring.jpg 'Map exploring')
-_Exploring digital maps of Lancashire. This one set to highlight areas of high deprivation by shading in darker colour and overlaying the deprivation measure._
+_Exploring digital maps of Lancashire. This one is set to highlight areas of high deprivation by shading them a darker colour and overlaying the deprivation decile measure._
 
-We're familiar with people using maps for exploration, but less so for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people who know the area in question.
+We're familiar with people using maps for exploration, but not so much for exploring data. Maps are a really useful way to gain insight from geospatial data (data related to places). It's an instantly familiar visualisation method that can communicate the story behind data in a way that is intuitive - particularly for people who know the area in question.
 
-Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of membership types into counts of membership per LSOA, while ensuring the postcode data was kept safe within the library service.
+Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of membership types into counts per LSOA, while ensuring the postcode data was kept safe within the library service.
 
-Catherine also gave up time to look at this data on a digital map, which showed the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided useful context. More importantly, Catherine was also able to being essential local expertise to the findings.
+Catherine also gave up time to look at this data on a digital map, which plotted the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided useful context. More importantly, Catherine was also able to being essential local expertise to the findings.
 
-That kind of local expertise proved that when doing any data analysis it is important not to do it in isolation, without involving subject matter experts. The majority of the findings needed expertise to either confirm that it matched lived experience, or in some cases warn against making assumptions about things the data hinted at. A lot of the insight into the findings was also provided by Carolyn Waite.
+When doing any data analysis it is important not to do it in isolation, without involving subject matter experts. The majority of the findings needed expertise to either confirm that it matched lived experience, or in some cases warn against making assumptions that the data hinted at. A lot of the insight into the findings was also provided by Carolyn Waite.
 
 ## Who borrows books?
 
@@ -85,14 +91,14 @@ Lancashire active borrower lists define an active borrower as a registered user 
 
 When looking across different areas in Lancashire, the lowest numbers for active borrowers were 1% of the population, and the maximum was 21%. It provided a really stark example of the difference in library borrowing between different communities.
 
-Even with the low numbers there are positives though. While an area of 1% active borrowers is low, it's encouraging to see are no areas without _any_ active borrowers. If you're looking to increase usage in a community it's good to have a starting point of some users in that area. Assuming about 1,500 people per LSOA, 1% would be 15 people who can advocate for the service. Perhaps a good opportunity for a refer a friend scheme?
+Even with the low numbers there are positives though. It's encouraging to see there are no areas without _any_ active borrowers. If you're looking to increase usage in a community it's good to have a starting point of _some_ users in that area. Assuming about 1,500 people per LSOA, 1% would be 15 people who can advocate for the service. Perhaps a good opportunity for a refer a friend scheme?
 
-It's also a positive indication for the service that active borrowing can be greater than 20%. If all areas of the county got to that level, it would amount to over doubling active borrowing. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
+It's also a positive indication for the service that active borrowing can be greater than 20%. If all areas of the county got to that level, it would mean over doubling active borrowing. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
 
-The area with 21% active borrowers was an LSOA that fell on the south side of Parbold. I've found in other examples of this data analysis that having a local library within a community increases active usage. That sounds like it should be obvious, but it isn't always reflected in policy. One theory can be that many people can reach a library without necessarily having one in their immediate location, so it's not important to have them everywhere. It was no surprise to discover that Parbold has a thriving library, with regular events, which is open 5 days a week.
+The area with 21% active borrowers was an LSOA that fell on the south side of Parbold library. Other examples of this data analysis have also shown that engagement peaks around local libraries. That sounds like it should be obvious, but it isn't always reflected in policy. One theory is that because people can reach a library without necessarily having one in their immediate location, local branches are less important. The data shows though that the presence of a library increases usage. It was no surprise to discover that Parbold has a thriving library, with regular events, which is open 5 days a week.
 
 ![The library at Parbold](/assets/images/2025-03-12-parbold.jpg 'The library at Parbold')
-_The lovely looking library at Parbold. Photo provided by and copyright Lancashire libraries._
+_The lovely looking library at Parbold. Photo provided by and copyright &copy; Lancashire libraries._
 
 We compared the spread of active borrowers across the different deprivation levels of the LSOAs (using the 'index of multiple deprivation'). We could see that this matched the general population across those different deprivation levels. This suggests that, in terms of borrowing in Lancashire libraries, there isn’t a significant bias to favour either areas of low or high deprivation.
 
@@ -172,7 +178,7 @@ It's another postive indication for the library service that rural take-up of eb
 
 - Active borrowing was uniform across different deprivation levels, showing it remaining a universal service able to attract people from any background
 - In some areas active borrowing rises to 21% of the population displaying a potential to be very high
-- 30% of existing PNET users reside in areas of the very highest deprivation. In one deprived neighbourhood in Brierwood, this was 16% of the population. A clear display of need being met by library services.
+- 30% of registered PNET users reside in areas of the very highest deprivation. In one deprived neighbourhood in Brierfield, 16% of the population were PNET users. A clear display of need being met by library services.
 - Ebook/emagazine usage was slightly lower in areas of high deprivation
 - Ebook/emagazine takeup was slightly higher in rural areas
 - There is great potential for increase in digital lending - with one community in Silverdale seeing 8% of the population being active users but 2% being the average
