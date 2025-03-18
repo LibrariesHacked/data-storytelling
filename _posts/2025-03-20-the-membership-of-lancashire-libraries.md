@@ -187,4 +187,8 @@ As with any data analysis, the more you delve into it the more questions it rais
 
 Exploring membership in small communities has been a useful way of visualising different types of library usage, and of understanding some of the differences between those communities.
 
-It would be possible to permanently embed such capability, with the maps being updated regularly from fresh data. Potentially this would be very powerful tool for a library service to monitor and target gaps of library engagement.
+It would be possible to permanently embed such capability, with the maps being updated regularly from automated fresh data extracts. Potentially this would be very powerful tool for a library service to monitor and target gaps of library engagement.
+
+_End_
+
+_All maps in this data story contain Ordnance Survey data &copy; Crown copyright and database right 2025_
