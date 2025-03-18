@@ -2,7 +2,7 @@
 layout: post
 title: The membership of Lancashire libraries
 tags: Membership
-author: Dave and Lancashire Libraries
+author: Dave Rowe and Lancashire Libraries
 excerpt_separator: <!--more-->
 published: true
 ---
