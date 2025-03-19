@@ -6,8 +6,8 @@ url: "https://www.librarystorytelling.net"
 
 remote_theme: chesterhow/tale
 
-# Google Analytics
-google_analytics:
+# Umami Analytics
+google_analytics: 83e3b0d3-1f59-46af-8196-b6790af8d38f
 
 # Author
 author:
