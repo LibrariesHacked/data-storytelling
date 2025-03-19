@@ -2,6 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$blue: #039be5;
+
 @import 'tale';
 
 aside {
@@ -42,11 +44,12 @@ thead {
   button {
     background-color: #e1f5fe;
     border: 1px solid #81d4fa;
-    color: #039be5;
+    color: $blue;
     border-radius: 3px;
     padding: 1em;
     margin: 1em;
     font-weight: bold;
     font-size: 1.2em;
+    cursor: pointer;
   }
 }
