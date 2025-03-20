@@ -55,23 +55,23 @@ The story would then be published on this site, and shared with the wider librar
 
 Time is precious, though I believe that doing more varied work with library data will always be productive and rewarding. For anyone contributing a story to this project I'll do my best to ensure that the time any staff spend is well spent and aids in personal and organisational development.
 
-The exact amount of time will depend on the story you want to tell, and the complexity of the data and any processes to get it. I would suggest settign deadlines for the work, and catching up on a regular basis to ensure people can work at their own pace. For example, meeting once every couple of weeks for a few months.
+The exact amount of time will depend on the story you want to tell, and the complexity of the data and any processes to get it. I would suggest setting deadlines for the work, and catching up on a regular basis to ensure people can work at their own pace. For example, meeting once every couple of weeks for a few months.
 
 ## Does the data need to be open?
 
 It would be lovely if the stories in this project also included regularly published open datasets that could be used by others to expand on that story.
 
-However, I understand there can be a reluctance to do too much at once! It will be down to the service whether to release library data opnely or not. We should describe the data we're using, how to extract it from relevant systems, and the process used to analyse it. This will help others to replicate the work for themselves.
+However, I understand there can be a reluctance to do too much at once! It will always be down to the service whether to publish data or not. We should describe the data we're using, how to extract it from relevant systems, and the process used to analyse it. This will help others to replicate the work for themselves.
 
 ## Data protection and terms of use
 
-It is always essential to consider data protection and privacy. In the majority of cases data can be open and accessible, and considering open data helps libraries to be more aware of the sensitive and personal data they hold, and how to protect it.
+It is always essential to consider data protection and privacy. In the majority of cases data can be open, and considering open data helps libraries to be more aware of the sensitive and personal data they hold, and how to protect it.
 
 The data used on this site is either open data, or data that has been anonymised and aggregated to protect the privacy of individuals. If you have any concerns about the data used on this site, please do [get in touch](mailto:info@librarieshacked.org).
 
-For library services and organisations that would like to work on this project, I will never ask for access to personal data, and will always work with you to ensure that the data we use is appropriate and safe. I have experience in working with sensitive data and public data, such as during my time as senior developer at Bath and North East Somerset Council, where I was technical lead in a large scale open data programme across the council.
+For library services and organisations that would like to work on this project, I will never ask for access to personal data, and will always work with you to ensure the data we use is appropriate and safe. I have experience in working with sensitive data and public data, such as during my time as senior developer at Bath and North East Somerset Council, where I was technical lead in a large-scale open data programme across the council.
 
-Before working on any data we will have a discussion about the data to ensure that it is appropriate and safe to use.
+Before working on any data we will have a discussion about the data to ensure that it is appropriate to use.
 
 ## How can I get involved?
 
@@ -79,6 +79,6 @@ If you're interested in telling a story about your library using data, [get in t
 
 ## Long term ambitions
 
-Long term I would love to see a community of library data storytellers, who regularly share their stories, challanges, and experiences with each other. I would be happy to help facilitate this community, and to help you get involved.
+Long term I would love to see a community of library data storytellers, who regularly share their stories, challenges, and experiences with each other. I would be happy to help facilitate this community, and to help you get involved.
 
-I would also love to add physical publishing to this project, such as a newspaper, printed cards, or a published book. Not to replicate the stories that are available here, but to acompany them. Physical publishing can be a great way to reach people who might not be online, and to engage in a different way - plus wouldn't it be great to have physical copies of visualisations and library data stories?
+I would also love to add physical publishing to this project, such as a newspaper, printed cards, or a published book. Not to replicate the stories that are available here, but to accompany them. Physical publishing can be a great way to reach people who might not be online, and to engage in a different way - plus wouldn't it be great to have physical copies of visualisations and library data stories?
