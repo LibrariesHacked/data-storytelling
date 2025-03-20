@@ -40,7 +40,7 @@ A postcode can be split in a couple of ways e.g. postcode LA1 1HY:
 - Has an **outward** part of the postcode 'LA1', and an **inward** part '1HY'
 - Has a postcode **area** 'LA', **district** 'LA1', **sector** 'LA1 1' and **unit** of 'LA1 1HY'
 
-An individual postcode unit could have just one resident - which means that something like a list of library member postcodes contains personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but those have a wide variation in population size, and can span across multiple communities - less useful for analysis.
+An individual postcode unit could have just one resident - which means that something like a list of library user postcodes contains personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but those have a wide variation in population size, and can span across multiple communities - less useful for analysis.
 
 To use postcodes we need to convert them to more useful areas - 'geographies' - which will give us more information about the people living in that area. For example, you may want to analyse how many library members there are per age group, and see whether it matches the breakdown in your local authority. That could be done for the library service as a whole, but it would provide limited insight. It is between small local communities that you will see wide differences in the age of the resident population, not in the overall authority.
 
@@ -87,22 +87,22 @@ When doing any data analysis it is important not to do it in isolation, without 
 
 ## Who borrows books?
 
-Lancashire active borrower lists define an active borrower as a registered user with at least one physical format issue transaction in the last 12 months. The active borrower count was about 100,000 out of the total population of 1.2 million (8%).
+Lancashire active borrower lists define an active borrower as a registered user with at least one physical format issue transaction in the last 12 months. The active borrower count is about 100,000 out of the total population of 1.2 million (8%).
 
-When looking across different areas in Lancashire, the lowest numbers for active borrowers were 1% of the population, and the maximum was 21%. It provided a really stark example of the difference in library borrowing between different communities.
+When looking across different areas in Lancashire, the lowest numbers for active borrowers were 1% of the population, and the maximum 21%. It provided a really stark example of the difference in library borrowing between different communities.
 
 Even with the low examples there are positives though. It's encouraging to see there are no areas without _any_ active borrowers. If you're looking to increase usage in a community it's good to have a starting point of _some_ users in that area. Assuming about 1,500 people per LSOA, 1% would be 15 people who can promote the service. Perhaps a good opportunity for a refer a friend scheme?
 
 It's also a positive indication for the service that active borrowing can be greater than 20%. If all areas of the county got to that level, it would mean over doubling active borrowers. When you consider that there are also the other active membership types (events, ebooks/emagazines, PNET) it's clear that the potential for library membership remains a high percentage of the population.
 
-The area with 21% active borrowers was an LSOA that fell on the south side of Parbold library. Other examples of this data analysis have also shown that usage peaks around local libraries. That sounds like it should be obvious, but it isn't always reflected in policy. Policy can sometimes be driven by the fact people can reach a library, without necessarily having one in their immediate location. The data shows though that the presence of a library increases usage. It was no surprise to discover that Parbold has a thriving library, with regular events, and open 5 days a week.
+The area with 21% active borrowers is an LSOA on the south side of Parbold library. Other examples of this data analysis have also shown that usage peaks around local libraries. That sounds like it should be obvious, but it isn't always reflected in policy. Policy can sometimes be driven by the fact people can reach a library, without necessarily having one in their immediate location. The data shows that the presence of a library increases usage. It was no surprise to discover that Parbold has a thriving library, with regular events, and open 5 days a week.
 
 ![The library at Parbold](/assets/images/2025-03-20-parbold.jpg 'The library at Parbold')
 _The lovely looking library at Parbold. Photo provided by and copyright &copy; Lancashire libraries._
 
 We compared the spread of active borrowers across the different deprivation levels of the LSOAs, using the 1-10 decile values. We could see that this broadly matched the profile of the general population. This suggests that, in terms of borrowing, there isn’t a significant bias to favour either areas of low or high deprivation.
 
-We also looked at usage across different measures of how rural/urban each LSOA was, to see if there were any significant differences. Although generally uniform, there seemed slightly lower active borrowing in the Major conurbation areas (the biggest towns). Lancashire has 6 [mobile library vehicles](https://lancashirecc.maps.arcgis.com/apps/dashboards/37aa3e51fd354e22a763389535b5cc55) with hundreds of stops - it's highly likely this coverage across the authority helps to ensure that rural borrowing isn't disadvantaged.
+We also looked at usage across different measures of how rural/urban each LSOA is, to see if there were any significant differences. Although generally uniform, there seemed slightly lower active borrowing in the Major conurbation areas (the biggest towns). Lancashire has 6 [mobile library vehicles](https://lancashirecc.maps.arcgis.com/apps/dashboards/37aa3e51fd354e22a763389535b5cc55) with hundreds of stops - it's highly likely this coverage across the authority helps to ensure that rural borrowing isn't disadvantaged.
 
 ## People using the computers
 
@@ -112,7 +112,7 @@ Analysing PNET usage has a slightly different context to analysing book borrowin
 
 There were 47,000 active members who are PNET users. This imemdiately seemed high - it's less than half the active physical borrowing counts but by no means a small percentage.
 
-Across different LSOAs there was a significant range of usage: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members was an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
+Across different LSOAs there was a significant range of usage: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members is an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
 
 ![Brierfield PNET Usage](/assets/images/2025-03-20-brierfield-pnet-usage.jpg 'Brierfield PNET Usage')
 _Brierfield PNET Usage. The map is set to highlight in darker shades the areas of greater % of the population using the PNET. This varies from 0% to 16%._
@@ -137,16 +137,16 @@ Knowing that there is less take up of the digital services in deprived areas cou
 
 High levels of ebook usage seemed to be centred around bigger libraries. It was suggested that this could be due to digital champions in those libraries, or more focus and signage pointing people towards the ebooks service. This provides an indication that a physical library service can still significantly increase digital usage.
 
-The area with really high usage (8%) was Silverdale, a small affluent village. It is likely that a lot of residents speak to each other and will want to support their local amenities i.e. the library. There will also be a high level of households having devices to enable e-book/audio, and residents will have a high level of educational attainment and literacy. We can see this from the deprivation indicators where Silverdale has a multiple deprivation index of 9 - putting it amongst the 20% least deprived neighbourhoods in England.
+The area with really high usage (8%) is Silverdale, a small affluent village. It is likely that a lot of residents speak to each other and will want to support their local amenities i.e. the library. There will also be a high level of households having devices to enable e-book/audio, and residents will have a high level of educational attainment and literacy. We can see this from the deprivation indicators where Silverdale has a multiple deprivation index of 9 - putting it amongst the 20% least deprived neighbourhoods in England.
 
 ![Silverdale ebook/emagazine usage](/assets/images/2025-03-20-ebook-usage-silverdale.jpg 'Silverdale ebook/emagazine usage')
 _Silverdale ebook/emagazine usage. The map is set to highlight in darker shades areas of greater % of the population using ebooks and emagazines. In Silverdale this reaches 8% of the population._
 
-Usage of these digital services was slightly higher in rural areas than urban areas.
+Usage of these digital services is slightly higher in rural areas than urban areas.
 
 ## Watching change over time
 
-That was how a snapshot of usage looked in the summer of 2024, but additional insight can be gained from observing how things change over time.
+That was a snapshot of usage from the summer of 2024, but additional insight can be gained from observing how things change over time.
 
 We looked at a single type of usage (ebook/emagazine) and differences in the user registrations over two different timescales:
 
@@ -176,11 +176,11 @@ It's another postive indication for the library service that rural take-up of eb
 
 ## Conclusion
 
-- Active borrowing was uniform across different deprivation levels, showing it remaining a universal service able to attract people from any background
-- In some areas active borrowing rises to 21% of the population displaying a potential to be very high
-- 30% of registered PNET users reside in areas of the very highest deprivation. In one deprived neighbourhood in Brierfield, 16% of the population were PNET users. A clear display of need being met by library services.
-- Ebook/emagazine usage was slightly lower in areas of high deprivation
-- Ebook/emagazine takeup was slightly higher in rural areas
+- Active borrowing is uniform across different deprivation levels, showing it remaining a universal service able to attract people from any background
+- In some areas active borrowing rises to 21% of the population, displaying a potential to be very high
+- 30% of registered PNET users reside in areas of the very highest deprivation. In one deprived neighbourhood in Brierfield, 16% of the population are PNET users. A clear display of need being met by library services.
+- Ebook/emagazine usage is slightly lower in areas of high deprivation
+- Ebook/emagazine takeup is slightly higher in rural areas
 - There is great potential for increase in digital lending - with one community in Silverdale seeing 8% of the population being active users but 2% being the average
 
 As with any data analysis, the more you delve into it the more questions it raises!
@@ -188,7 +188,5 @@ As with any data analysis, the more you delve into it the more questions it rais
 Exploring membership in small communities has been a useful way of visualising different types of library usage, and of understanding some of the differences between those communities.
 
 It would be possible to permanently embed such capability, with the maps being updated regularly from automated fresh data extracts. Potentially this would be very powerful tool for a library service to monitor and target gaps of library engagement.
-
-_End_
 
 _All maps in this data story contain Ordnance Survey data &copy; Crown copyright and database right 2025_
