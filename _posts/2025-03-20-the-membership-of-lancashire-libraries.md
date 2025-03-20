@@ -40,11 +40,11 @@ A postcode can be split in a couple of ways e.g. postcode LA1 1HY:
 - Has an **outward** part of the postcode 'LA1', and an **inward** part '1HY'
 - Has a postcode **area** 'LA', **district** 'LA1', **sector** 'LA1 1' and **unit** of 'LA1 1HY'
 
-An individual postcode unit could have just one resident - which means that something like a list of library user postcodes contains personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but those have a wide variation in population size, and can span across multiple communities - less useful for analysis.
+An individual postcode unit could have just one resident - which means that a list of library user postcodes could contain personally identifiable information (PII). It's possible to be less specific, such as by using postcode area, but those have a wide variation in population size, and can span across multiple communities - less useful for analysis.
 
 To use postcodes we need to convert them to more useful areas - 'geographies' - which will give us more information about the people living in that area. For example, you may want to analyse how many library members there are per age group, and see whether it matches the breakdown in your local authority. That could be done for the library service as a whole, but it would provide limited insight. It is between small local communities that you will see wide differences in the age of the resident population, not in the overall authority.
 
-With smaller geographies it's possible to find more detailed examples. There may generally be high levels of library usage among elderly people, but then you find a community with a high percentage of elderly residents and very few of them using the library service. This would be hard to discover in wider statistics, as they become submerged by bigger numbers. We need to analyse at the level of individual communities in order to assess and tackle reduced library usage.
+With smaller geographies it's possible to find more detailed examples. You may have generally high levels of library usage among elderly people, but then you find a community with a high percentage of elderly residents and very few of them using the library service. This would be hard to discover in wider statistics, as they become submerged by bigger numbers. We need to analyse at the level of individual communities in order to assess and tackle reduced library usage.
 
 The Office for National Statistics (ONS) publish Lower Super Output Areas (LSOAs) - geographic areas used for statistics. Unlike postcodes, these are uniform in terms of population (around 1,500 people). As well as regularly publishing population counts by age, statistics like the [English indices of deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) give us deprivation measures for these areas, across aspects such as income, employment, health, crime, income, education and skills.
 
@@ -58,7 +58,7 @@ To make things easier, the ranks are split into deciles, and areas assigned a de
 
 ## Library membership and usage
 
-When considering a 'library member' we shouldn't limit ourselves to traditional definitions of usage. [CIPFA library statistics](https://www.gov.uk/government/publications/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries) collect the number of 'active borrowers' across library services. This excludes anyone who is using a library for other reasons: computers, eBooks, eMagazines, etc.
+When considering a 'library member' we shouldn't limit ourselves to traditional definitions of usage. [CIPFA library statistics](https://www.gov.uk/government/publications/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries/analysing-data-cipfa-statistics-and-the-future-of-englands-libraries) collect the number of 'active borrowers' across library services. This excludes anyone who is using a library for other reasons: computers, ebooks, emagazines, etc.
 
 While borrowing still remains the primary reason for library membership, we shouldn't ignore other usage types. If we don't consider other usage we miss opportunities for insight, and even simple cross-marketing.
 
