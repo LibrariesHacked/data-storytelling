@@ -23,7 +23,7 @@ Lancashire are a library service that have always been keen to engage with data 
 
 When a user joins Lancashire Libraries, the library service requests a small amount of information: Name, Local library, Date of birth, Address, Telephone number and/or email address.
 
-One of the most useful pieces of data is one that gives very little direct information: the user's postcode. A postcode doesn't describe an individual, but it tells us a lot about a place. In society, we still use the term [postcode lottery](https://en.wikipedia.org/wiki/Postcode_lottery) to describe unequal provision of services such as healthcare and education, between different communities. Differences in socioeconomic status, ethnicity, age, and other demographic data are also stark between different areas.
+One of the most useful pieces of data for analysis is one that gives very little direct information: the user's postcode. A postcode doesn't describe an individual, but it tells us a lot about a place. In society, we still use the term [postcode lottery](https://en.wikipedia.org/wiki/Postcode_lottery) to describe unequal provision of services such as healthcare and education, between different communities. There are also significant differences in socioeconomic status, ethnicity, age, and other demographics, between different areas.
 
 When analysing members we don't need to pry into their personal lives. Their income, education level, and health shouldn't be collected or analysed. But we can analyse where people live, and look at the profile of those areas. It doesn't mean that everyone who lives in that area is the same, but as long as we have a decent sample of people, we can start to gather insight.
 
