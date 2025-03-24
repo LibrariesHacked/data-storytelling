@@ -81,7 +81,7 @@ We're familiar with people using maps for exploration, but not so much for explo
 
 Catherine Honnor, a library manager in Lancashire, did a brilliant job of transforming the postcode lists of membership types into counts per LSOA, while ensuring the postcode data was kept safe within the library service.
 
-Catherine also gave up time to look at this data on a digital map, which plotted the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided useful context. More importantly, Catherine was also able to being essential local expertise to the findings.
+Catherine also gave up time to look at this data on a digital map, which plotted the different LSOAs in Lancashire, and shaded them to represent membership as a percentage of population. We also explored the map with the areas shaded by level of deprivation, which provided useful context. More importantly, Catherine was able to bring essential local expertise to the findings.
 
 When doing any data analysis it is important not to do it in isolation, without involving subject matter experts. The majority of the findings needed expertise to either confirm that it matched lived experience, or in some cases warn against making assumptions that the data hinted at. A lot of the insight into the findings was also provided by Carolyn Waite.
 
@@ -110,9 +110,9 @@ In Lancashire, PNET is the term used for the People's Network computers. [The Pe
 
 Analysing PNET usage has a slightly different context to analysing book borrowing. Library computer provision can be more about ensuring we meet the _need_ of different communities rather than also seeing the broader positive outcomes from engaging with the library for reading (while knowing this is still essential for many people).
 
-There were 47,000 active members who are PNET users. This imemdiately seemed high - it's less than half the active physical borrowing counts but by no means a small percentage.
+There were 47,000 active members who are PNET users. This seems high - it's less than half the active physical borrowing counts but by no means a small percentage.
 
-Across different LSOAs there was a significant range of usage: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members is an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
+Across different LSOAs there is a significant range of usage: from 0% of the population in some areas, to 16% in another. The area with 16% active PNET members is an area called Brierfield. Brierfield is an area of high deprivation, as well as having a high population of non-white ethnicity (38% Asian and 36% Muslim).
 
 ![Brierfield PNET Usage](/assets/images/2025-03-20-brierfield-pnet-usage.jpg 'Brierfield PNET Usage')
 _Brierfield PNET Usage. The map is set to highlight in darker shades the areas of greater % of the population using the PNET. This varies from 0% to 16%._
